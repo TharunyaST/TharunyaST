@@ -1,91 +1,77 @@
-<h1 align="center">👩‍💻 Tharunya ST</h1>
-<h3 align="center">Software Developer • AI Explorer • Problem Solver</h3>
-
----
-
-<!-- 🟢 STATUS PANEL -->
-
-```bash
-> Initializing Developer Profile...
-
-Status      : Active 🟢
-Role        : Software Developer
-Focus       : AI / ML + Full Stack
-Learning    : Data Structures & System Design
-Mindset     : Consistency > Motivation
-```
-
----
-
-## 🧠 System Overview
-
-```yaml
-User: Tharunya ST
-Domain: Software Development
-Core Areas:
-  - Problem Solving
-  - Web Development
-  - Machine Learning
-Current Goal: Become a strong Software Engineer
-```
-
----
-
-## ⚙️ Tech Stack
-
-```txt
-Languages      → Python | C++ | C | JavaScript
-Frontend       → HTML | CSS
-Backend        → Node.js
-Database       → MySQL
-AI/ML          → TensorFlow | PyTorch
-Tools          → Git | GitHub | VS Code | Postman
-```
-
----
-
-## 📊 GitHub Analytics
+<h1 align="center">💻 Tharunya ST</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharunyaST&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunyaST&theme=transparent&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunyaST&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Loading+Modules...;AI+%7C+Full+Stack+%7C+Problem+Solver;System+Ready+✅" />
 </p>
 
 ---
 
-## 🧩 Problem Solving
+## 🖥️ Terminal
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Tharunya711?theme=light&border=0" />
-</p>
+```bash id="mzx8dp"
+tharunya@github:~$ whoami
+> Tharunya ST
 
----
+tharunya@github:~$ role
+> Software Developer
 
-## 🌐 Network Links
+tharunya@github:~$ skills --list
+> Python, C++, C, JavaScript
+> HTML, CSS, Node.js
+> MySQL
+> TensorFlow, PyTorch
 
-```txt
-LinkedIn   → linkedin.com/in/TharunyaST
-LeetCode   → leetcode.com/u/Tharunya711
-GitHub     → github.com/TharunyaST
-Email      → tharuythannarri26@gmail.com
+tharunya@github:~$ currently_learning
+> Data Structures & Algorithms
+> Full Stack Development
+
+tharunya@github:~$ goal
+> Become a top Software Engineer 🚀
 ```
 
 ---
 
-## 🚀 Developer Philosophy
+## 📊 System Stats
 
-```txt
-while(alive) {
-   learn();
-   build();
-   improve();
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharunyaST&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharunyaST&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Tharunya711?theme=dark&border=0" />
+</p>
+
+---
+
+## 🌐 Connect
+
+```bash id="dbcmwx"
+tharunya@github:~$ links
+> LinkedIn  : linkedin.com/in/TharunyaST
+> LeetCode  : leetcode.com/u/Tharunya711
+> GitHub    : github.com/TharunyaST
+> Email     : tharuythannarri26@gmail.com
+```
+
+---
+
+## ⚡ System Loop
+
+```c id="8b5avt"
+while(true) {
+    learn();
+    code();
+    improve();
 }
 ```
 
 ---
 
-⭐ End of Profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&center=true&vCenter=true&width=600&lines=System+Running...;Waiting+for+Opportunities...;Let's+Build+Something+Great+🚀" />
+</p>
